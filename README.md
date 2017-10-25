@@ -65,6 +65,7 @@ Launch PuTTY
 
 # Click 'yes' when prompted.
 
+
 <kbd>
   <img src="/security_alert.JPG">
 </kbd>
