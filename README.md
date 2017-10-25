@@ -64,11 +64,6 @@ Launch PuTTY
 ## Security Alert
 Click 'yes' when prompted to continue.
 
-
-<kbd>
-  <img src="/security_alert.JPG">
-</kbd>
-
 ## Enter your GCP username and hit the 'Enter/return' key to login to your VM
 
 <kbd>
