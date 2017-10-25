@@ -31,7 +31,7 @@ Launch PuTTY
 ## You can obtain your public IP address by returning to your GCP console.
 
 <kbd>
-  <img src="/14_ip_address.PNG">
+  <img src="/14_ip_address.png">
 </kbd>
 
 ## From the start Menu, search for putty and click 'PuTTY'. 
@@ -48,7 +48,7 @@ Launch PuTTY
 
 
 <kbd>
-  <img src="/15_ssh_auth_browse_private_key.PNG">
+  <img src="/15_ssh_auth_browse_private_key.png">
 </kbd>
 
 ## 1. Scroll back up, Click 'Session'
@@ -58,7 +58,7 @@ Launch PuTTY
 ## 5. Start your session by clicking 'Open'
 
 <kbd>
-  <img src="/16_save.PNG">
+  <img src="/16_save.png">
 </kbd>
 
 ## Security Alert
@@ -72,5 +72,5 @@ Launch PuTTY
 ## Enter your GCP username and hit the 'Enter/return' key to login to your VM
 
 <kbd>
-  <img src="/17_login_as.PNG">
+  <img src="/17_login_as.png">
 </kbd>
