@@ -62,8 +62,7 @@ Launch PuTTY
 </kbd>
 
 ## Security Alert
-
-# Click 'yes' when prompted.
+Click 'yes' when prompted to continue.
 
 
 <kbd>
