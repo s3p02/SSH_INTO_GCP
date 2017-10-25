@@ -23,3 +23,5 @@ lspci
 </kbd>
 
 It's recommended that one stops the VM when its not used, as the charge per hour is ~$1. Approx. you can get less than 300 hours with the free credit to play around with a GPU VM on GCP.
+
+# USING Windows
