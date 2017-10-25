@@ -25,3 +25,52 @@ lspci
 It's recommended that one stops the VM when its not used, as the charge per hour is ~$1. Approx. you can get less than 300 hours with the free credit to play around with a GPU VM on GCP.
 
 # USING Windows
+
+Launch PuTTY
+
+## You can obtain your public IP address by returning to your GCP console.
+
+<kbd>
+  <img src="/14_ip_address.PNG">
+</kbd>
+
+## From the start Menu, search for putty and click 'PuTTY'. 
+
+<kbd>
+  <img src="/13_start_putty.png">
+</kbd>
+
+## 1. Scroll down.
+## 2. Click 'Connection'
+## 3. Click 'SSH'
+## 4. Click 'Auth'
+## 5. Click 'Browse' and select the private key you save from PuTTYgen, which has a extension '.ppk'
+
+
+<kbd>
+  <img src="/15_ssh_auth_browse_private_key.PNG">
+</kbd>
+
+## 1. Scroll back up, Click 'Session'
+## 2. Enter your public ip address
+## 3. name your session
+## 4. Click 'Save'
+## 5. Start your session by clicking 'Open'
+
+<kbd>
+  <img src="/16_save.PNG">
+</kbd>
+
+## Security Alert
+
+# Click 'yes' when prompted.
+
+<kbd>
+  <img src="/security_alert.JPG">
+</kbd>
+
+## Enter your GCP username and hit the 'Enter/return' key to login to your VM
+
+<kbd>
+  <img src="/17_login_as.PNG">
+</kbd>
