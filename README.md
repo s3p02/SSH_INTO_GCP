@@ -69,3 +69,5 @@ Click 'yes' when prompted to continue.
 <kbd>
   <img src="/17_login_as.png">
 </kbd>
+
+ [Back to Main](https://github.com/s3p02/jupyter_gcp_nvidia-docker_digits/blob/master/README.md)
